@@ -1,4 +1,6 @@
-<title>Pagina principal</title>
+<head>
+     <title: "Pagina principal">
+</head>
 # System.out.println("Hi there 👋");
 Currently learning. I'm a junior developer and my main programming language are: Java. But actually I have a basic knowledge on: Javascript, Typescript and Node.Js.
 
